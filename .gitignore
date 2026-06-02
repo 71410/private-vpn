@@ -1,0 +1,15 @@
+# Logs, keys, secrets
+*.log
+*.pem
+*.key
+*secret*
+*password*
+
+# Temp files
+tmp/
+xray_download/
+*.py
+
+# System
+.DS_Store
+Thumbs.db
